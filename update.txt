@@ -1,2 +1,2 @@
 v1
-dl
+https://raw.githubusercontent.com/robloxaltgen/official/main/test.exe
