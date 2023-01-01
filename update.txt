@@ -1,3 +1,3 @@
-v1.7
+v1.8
 https://raw.githubusercontent.com/robloxaltgen/official/main/AltGenLauncher.exe
 ubZFv8CHHc
